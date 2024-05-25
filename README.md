@@ -6,10 +6,10 @@ I'm an ICT Engineering student  with a passion for Cloud Computing and Web Devel
 
 ## Skills
 
-- Programming Languages: JavaScript, HTML, CSS,JAVA,Python,C
-- Frameworks/Libraries: React, Node.js,Express.js,Bootstrap,tailwindcss
-- Cloud Technologies: Azure(AZ-900)
-- Other Skills: Git, Linux(LPI 101),MySQL,MongoDB,Networking(CCNA1,CCNA2)
+- **Programming Languages:** JavaScript, HTML, CSS,JAVA,Python,C
+- **Frameworks/Libraries:** React, Node.js, Express.js, Bootstrap, tailwindcss
+- **Cloud Technologies:** Azure(AZ-900)
+- **Other Skills:** Git, Linux(LPI 101), MySQL, MongoDB, Networking(CCNA1,CCNA2)
 
 
 ## Get in Touch
